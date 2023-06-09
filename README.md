@@ -14,9 +14,15 @@ Based on C++17
 ROS (and Eigen, PCL, OpenMP): the all examples in this readme are tested under Ubuntu 18.04 and ROS Melodic.
 
 ## How to use
-$ mkdir -p ~/catkin/workspace_ws/src. 
-$ cd ~/catkin/workspace_ws/src. 
-$ git clone https://github.com/zhuhongwei123/An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments.git. 
+$ mkdir -p ~/catkin/workspace_ws/src
+
+$ cd ~/catkin/workspace_ws/src
+
+$ git clone https://github.com/zhuhongwei123/An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments.git
+
 $ cd ..   
-$ catkin_make. 
-$ source devel/setup.bash. 
+
+$ catkin_make
+
+$ source devel/setup.bash
+
