@@ -4,5 +4,5 @@
 ## 我们的停车场点云数据，以及使用Fast-lio2估计的位姿
 https://drive.google.com/drive/folders/1d7xF9cENaoifsUSjsupPBWco56bnRkK1?usp=drive_link 
 
-##目前这里是我们的机器人的演示视频
+## 目前这里是我们的机器人的演示视频，包括了机器人自助探索，并自助3D建图，简单环境下已经实现。在复杂环境中，关键技术还在探索。
 https://youtu.be/1xsb6KZ6HNI
