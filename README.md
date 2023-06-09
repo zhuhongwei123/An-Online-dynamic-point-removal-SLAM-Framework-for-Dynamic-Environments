@@ -1,5 +1,5 @@
 # An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments
-Here is the corresponding code and robot video for our manuscript. The manuscript is currently under review. At present, due to a large number of experiments, the code is relatively messy. After the manuscript is accepted, it will be continuously updated in the future.
+The framework of our system is composed of two modules, this code is the dynamic point recognition module. The manuscript is currently under review. At present, due to a large number of experiments, the code is relatively messy. After the manuscript is accepted, it will be continuously updated in the future.
 
 ![OurRobot](https://github.com/zhuhongwei123/An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments/blob/main/Robot_hardware.png)
 
