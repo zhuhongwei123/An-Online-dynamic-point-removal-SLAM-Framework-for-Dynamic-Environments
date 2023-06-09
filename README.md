@@ -19,5 +19,8 @@ $ cd ~/catkin/workspace_ws/src <br>
 $ git clone https://github.com/zhuhongwei123/An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments.git <br>
 $ cd ..  <br>
 $ catkin_make <br>
-$ source devel/setup.bash
-
+$ source devel/setup.bash <br>
+Download parking lot point cloud data and pose, and modify save_pcd_directory, sequence_scan_dir, sequence_pose_path in params_mulran_scliosam.yaml in config, and replace them with the downloaded location <br>
+$ roslaunch removert run_scliosam.launch
+## if you use KITTI dataset <br>
+$ roslaunch removert run_kitti.launch 
