@@ -8,3 +8,15 @@ https://drive.google.com/drive/folders/1d7xF9cENaoifsUSjsupPBWco56bnRkK1?usp=dri
 
 ## This is a demonstration video of our robot, including robot self-exploration and self-service 3D mapping, which has been realized in a simple environment. In complex environments, key technologies are still being explored.
 https://youtu.be/1xsb6KZ6HNI
+
+## Requirements
+Based on C++17
+ROS (and Eigen, PCL, OpenMP): the all examples in this readme are tested under Ubuntu 18.04 and ROS Melodic.
+
+## How to use
+$ mkdir -p ~/catkin/workspace_ws/src
+$ cd ~/catkin/workspace_ws/src
+$ git clone https://github.com/irapkaist/removert.git
+$ cd ..
+$ catkin_make
+$ source devel/setup.bash
