@@ -16,7 +16,7 @@ ROS (and Eigen, PCL, OpenMP): the all examples in this readme are tested under U
 ## How to use
 $ mkdir -p ~/catkin/workspace_ws/src
 $ cd ~/catkin/workspace_ws/src
-$ git clone https://github.com/irapkaist/removert.git
+$ git clone [https://github.com/irapkaist/removert.git](https://github.com/zhuhongwei123/An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments.git)
 $ cd ..
 $ catkin_make
 $ source devel/setup.bash
