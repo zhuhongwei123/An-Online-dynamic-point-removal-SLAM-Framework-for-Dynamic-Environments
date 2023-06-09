@@ -10,17 +10,14 @@ https://drive.google.com/drive/folders/1d7xF9cENaoifsUSjsupPBWco56bnRkK1?usp=dri
 https://youtu.be/1xsb6KZ6HNI
 
 ## Requirements
-Based on C++17
+Based on C++17 <br>
 ROS (and Eigen, PCL, OpenMP): the all examples in this readme are tested under Ubuntu 18.04 and ROS Melodic.
 
 ## How to use
 $ mkdir -p ~/catkin/workspace_ws/src <br>
 $ cd ~/catkin/workspace_ws/src <br>
-$ git clone https://github.com/zhuhongwei123/An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments.git
-
-$ cd ..   
-
-$ catkin_make
-
+$ git clone https://github.com/zhuhongwei123/An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments.git <br>
+$ cd ..  <br>
+$ catkin_make <br>
 $ source devel/setup.bash
 
