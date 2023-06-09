@@ -1,7 +1,7 @@
 # An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments
 这是我们的手稿的所对应的代码与机器人视频。目前稿件还在审稿中。目前由于大量做实验，代码比较乱，等稿件被接受后，后续会不断的更新。
 
-![OurRobot.png]https://github.com/zhuhongwei123/An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments/blob/main/Robot_hardware.png
+![OurRobot](https://github.com/zhuhongwei123/An-Online-dynamic-point-removal-SLAM-Framework-for-Dynamic-Environments/blob/main/Robot_hardware.png)
 
 ## 我们的停车场点云数据，以及使用Fast-lio2估计的位姿
 https://drive.google.com/drive/folders/1d7xF9cENaoifsUSjsupPBWco56bnRkK1?usp=drive_link 
