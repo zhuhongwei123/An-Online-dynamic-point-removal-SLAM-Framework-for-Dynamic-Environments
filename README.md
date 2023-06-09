@@ -23,4 +23,5 @@ $ source devel/setup.bash <br>
 Download parking lot point cloud data and pose, and modify save_pcd_directory, sequence_scan_dir, sequence_pose_path in params_mulran_scliosam.yaml in config, and replace them with the downloaded location <br>
 $ roslaunch removert run_scliosam.launch
 ## if you use KITTI dataset <br>
+Download KITTY point cloud data and pose, and modify save_pcd_directory, sequence_scan_dir, sequence_pose_path in params_kitti.yaml in config, and replace them with the downloaded location <br>
 $ roslaunch removert run_kitti.launch 
